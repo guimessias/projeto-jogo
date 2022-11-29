@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    width: 100%;
+    height: 100%;
+}
+
+:root{
+--pupler:#4A154B;
+--whit:#FFF;
+--green:#11780F;
+--red:#D2300C;
+--grey:#D9D9D9;
+--dar-transparent:rgb(255,255,255,.5);
+}
+
